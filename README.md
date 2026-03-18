@@ -52,36 +52,6 @@ Google、OpenAI、Anthropic、Perplexity、Meta、Microsoft、Amazon —— 7社
 
 ---
 
-## 📊 主要データ・ファクト
-
-### 本書で分析した主要なデータポイント：
-
-| データ | 数値 | 出典 |
-|---|---|---|
-| Google年間広告収入（2025年） | 約$2,650億 | Alphabet 2025 Q4 Earnings |
-| Meta年間広告収入（2025年） | 約$1,700億 | Meta 2025 Q4 Earnings |
-| OpenAI月間アクティブユーザー | 8億人以上 | OpenAI発表 |
-| うち無料ユーザー比率 | 約95% | OpenAI広告導入発表 |
-| iOSトラッキングオプトアウト率 | 75% | Apple ATT |
-| AI検索内広告で信頼低下と回答した米国成人 | 63% | Ipsos / eMarketer |
-| Perplexity広告実験期間 | 2024年11月〜2026年2月 | Financial Times / Campaign US |
-| Microsoft Copilot広告CTR向上 | +73% | Microsoft Advertising |
-| Google AI Mode日次ユーザー | 7,500万人 | Google発表 |
-| SparkToro実験: 同一リスト再現確率 | 1%未満 | SparkToro / Gumshoe.ai |
-
-### 📚 参考文献（主要）
-
-| カテゴリ | 出典 | 本書での役割 |
-|---|---|---|
-| **Google / Alphabet** | Alphabet Earnings、Google Marketing Live 2025、Patent US12536233B1、UCP | AI広告の技術的フロンティアと商業的現実の両面を分析する基盤 |
-| **OpenAI** | 広告導入発表（2026年1月）、Sam Altman発言、Sarah Friar FTインタビュー | 「広告は最後の手段」から導入に転じた構造的理由の解剖 |
-| **Anthropic** | 「Claude is a space to think」（2026年2月）、Super Bowl LX CM | 広告拒否の論理と「不在の価値」の実証 |
-| **Perplexity** | 広告開始（2024年11月）・撤退（2026年2月）、Campaign US報道 | 信頼のパラドックスを実証した唯一の事例 |
-| **市場調査** | Gartner、Ipsos/eMarketer、Taylor & Francis、BCG、SparkToro/Gumshoe.ai | ユーザー心理・信頼構造・AI推薦の非決定性に関する定量的根拠 |
-| **プロトコル** | UCP（GitHub）、MCP（Anthropic）、A2A（Google）、WebMCP | エージェンティック・コマースの技術基盤 |
-
----
-
 ## 🔗 Related Projects
 
 本書は、以下のOSSプロジェクトと相互に接続されている。
@@ -102,18 +72,14 @@ Google、OpenAI、Anthropic、Perplexity、Meta、Microsoft、Amazon —— 7社
 
 ## 👤 著者
 
-**Satoshi Yamauchi** (山内 怜史)<br>
-
+**Satoshi Yamauchi** (山内 怜史)
 * **AI Strategist & Business Designer at Sun Asterisk Inc.**
-
 * **Founder / AI Strategist at Leading.AI**
-
 * 15年以上にわたりBusiness・Technology・Creativeの3領域を越境。フューチャーアーキテクトでITコンサルタントとして40案件のPL/PMを推進後、リクルートで事業戦略・新規事業開発に従事。Sun Asteriskでビジネスデザイナー兼AIストラテジストとして、新規事業×生成AIの方法論「Depth & Velocity」を体系化。
 
 * This project is part of the research by Leading.AI.
-
-* [📒 Read my insights on Note](https://note.com/satoshi_yamauchi)
-
+  
+* [📒 Read my insights on Note](https://note.com/satoshi_yamauchi) 
 * [🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)
 
 ---
