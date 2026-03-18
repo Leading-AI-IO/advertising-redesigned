@@ -6,7 +6,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese-blue)](docs/)
 
 <p align="left">
-  <img src="./assets/cover_design.png" width="80%">
+  <img src="./assets/cover_design.png" width="70%">
 </p>
 
 ---
