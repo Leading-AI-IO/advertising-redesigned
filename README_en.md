@@ -6,7 +6,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 
 <p align="left">
-  <img src="./assets/cover_design.png" width="80%">
+  <img src="./assets/cover_design.png" width="70%">
 </p>
 
 *Read this in other languages: [日本語](README.md)*
@@ -45,42 +45,12 @@ The book comprises 9 chapters.
 
 ---
 
-## 📄 Documents
+## 📄 Document
 
-| File | Language | Content |
+| ファイル | 言語 | 内容 |
 |---|---|---|
-| [advertising_redesigned_jp.md](./docs/jp/advertising_redesigned_jp.md) | 🇯🇵 Japanese | Full text (Japanese) |
-| [advertising_redesigned_en.md](./docs/en/advertising_redesigned_en.md) | 🇺🇸 English | Full text (English) |
-
----
-
-## 📊 Key Data Points
-
-### Core data analyzed in this book:
-
-| Data Point | Value | Source |
-|---|---|---|
-| Google annual ad revenue (2025) | ~$265B | Alphabet 2025 Q4 Earnings |
-| Meta annual ad revenue (2025) | ~$170B | Meta 2025 Q4 Earnings |
-| OpenAI monthly active users | 800M+ | OpenAI announcement |
-| Free-tier user ratio | ~95% | OpenAI ad launch announcement |
-| iOS tracking opt-out rate | 75% | Apple ATT |
-| U.S. adults saying AI search ads reduce trust | 63% | Ipsos / eMarketer |
-| Perplexity ad experiment duration | Nov 2024 – Feb 2026 | Financial Times / Campaign US |
-| Microsoft Copilot ad CTR improvement | +73% | Microsoft Advertising |
-| Google AI Mode daily users | 75M | Google announcement |
-| SparkToro experiment: probability of identical recommendation list | <1% | SparkToro / Gumshoe.ai |
-
-### 📚 Key References
-
-| Category | Sources | Role in This Book |
-|---|---|---|
-| **Google / Alphabet** | Alphabet Earnings, Google Marketing Live 2025, Patent US12536233B1, UCP | Foundation for analyzing both the technical frontier and commercial reality of AI advertising |
-| **OpenAI** | Ad launch announcement (Jan 2026), Sam Altman statements, Sarah Friar FT interview | Dissecting the structural reasons behind the shift from "ads as last resort" to active adoption |
-| **Anthropic** | "Claude is a space to think" (Feb 2026), Super Bowl LX commercial | The logic of ad refusal and demonstrating the "value of absence" |
-| **Perplexity** | Ad launch (Nov 2024), withdrawal (Feb 2026), Campaign US reporting | The only case study that empirically demonstrated the trust paradox |
-| **Market Research** | Gartner, Ipsos/eMarketer, Taylor & Francis, BCG, SparkToro/Gumshoe.ai | Quantitative evidence on user psychology, trust structures, and non-determinism of AI recommendations |
-| **Protocols** | UCP (GitHub), MCP (Anthropic), A2A (Google), WebMCP | Technical infrastructure of agentic commerce |
+| [advertising_redesigned_jp.md](./docs/jp/advertising_redesigned_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
+| [advertising_redesigned_en.md](./docs/en/advertising_redesigned_en.md) | 🇺🇸 English | 本文（英語版） |
 
 ---
 
@@ -105,17 +75,14 @@ This book is part of an interconnected ecosystem of open-source projects.
 ## 👤 Author
 
 **Satoshi Yamauchi** (山内 怜史)<br>
-
 * **AI Strategist & Business Designer at Sun Asterisk Inc.**
-
 * **Founder / AI Strategist at Leading.AI**
 
 * Over 15 years of experience spanning Business, Technology, and Creative domains. Led 40+ projects as PL/PM at Future Architect (IT consulting), then drove business strategy and new business development at Recruit. Currently at Sun Asterisk as a Business Designer and AI Strategist, where he developed "Depth & Velocity" — a methodology for new business development powered by generative AI.
 
 * This project is part of the research by Leading.AI.
-
+  
 * [📒 Read my insights on Note](https://note.com/satoshi_yamauchi)
-
 * [🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)
 
 ---
@@ -129,4 +96,4 @@ Issues and Pull Requests are welcome. Contributions on international AI advertis
 ## 📝 License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
-© 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
+© 2026 Satoshi Yamauchi / [Leading AI](https://www.leading-ai.io/) — Licensed under CC BY 4.0
