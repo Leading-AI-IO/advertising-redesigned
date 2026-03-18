@@ -47,13 +47,14 @@ Google、OpenAI、Anthropic、Perplexity、Meta、Microsoft、Amazon —— 7社
 
 | ファイル | 言語 | 内容 |
 |---|---|---|
-| [advertising_redesigned_jp.md](./docs/ja/advertising_redesigned_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
+| [advertising_redesigned_jp.md](./docs/jp/advertising_redesigned_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
+| [advertising_redesigned_en.md](./docs/en/advertising_redesigned_en.md) | 🇺🇸 English | 本文（英語版） |
 
 ---
 
 ## 📊 主要データ・ファクト
 
-本書で分析した主要なデータポイント：
+### 本書で分析した主要なデータポイント：
 
 | データ | 数値 | 出典 |
 |---|---|---|
@@ -68,9 +69,7 @@ Google、OpenAI、Anthropic、Perplexity、Meta、Microsoft、Amazon —— 7社
 | Google AI Mode日次ユーザー | 7,500万人 | Google発表 |
 | SparkToro実験: 同一リスト再現確率 | 1%未満 | SparkToro / Gumshoe.ai |
 
----
-
-## 📚 参考文献（主要）
+### 📚 参考文献（主要）
 
 | カテゴリ | 出典 | 本書での役割 |
 |---|---|---|
