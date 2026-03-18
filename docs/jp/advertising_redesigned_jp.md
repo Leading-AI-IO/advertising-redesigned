@@ -115,10 +115,10 @@ flowchart LR
 
     OLD -- "パラダイムシフト" --> NEW
 
-    style OLD fill:#1a1a2e,stroke:#e94560,color:#eee
-    style NEW fill:#0f3460,stroke:#16c79a,color:#eee
-    style O2 fill:#e94560,stroke:#e94560,color:#fff
-    style N2 fill:#16c79a,stroke:#16c79a,color:#fff
+    style OLD fill:#fef3f0,stroke:#d63031,color:#2d3436
+    style NEW fill:#f0faf6,stroke:#00b894,color:#2d3436
+    style O2 fill:#d63031,stroke:#d63031,color:#fff
+    style N2 fill:#00b894,stroke:#00b894,color:#fff
 ```
 
 ---
@@ -262,10 +262,10 @@ flowchart LR
 
     ERA1 -- "検索の進化" --> ERA2 -- "構造的転換" --> ERA3
 
-    style ERA1 fill:#2d3436,stroke:#636e72,color:#dfe6e9
-    style ERA2 fill:#2d3436,stroke:#636e72,color:#dfe6e9
-    style ERA3 fill:#0f3460,stroke:#16c79a,color:#eee
-    style E3A fill:#16c79a,stroke:#16c79a,color:#fff
+    style ERA1 fill:#f5f5f5,stroke:#b2bec3,color:#2d3436
+    style ERA2 fill:#f0f0f0,stroke:#b2bec3,color:#2d3436
+    style ERA3 fill:#f0faf6,stroke:#00b894,color:#2d3436
+    style E3A fill:#00b894,stroke:#00b894,color:#fff
 ```
 
 ---
@@ -578,11 +578,11 @@ flowchart TB
 
     RESULT --> TIMELINE
 
-    style CENTER fill:#f39c12,stroke:#e67e22,color:#fff
-    style RESULT fill:#e74c3c,stroke:#c0392b,color:#fff
-    style TIMELINE fill:#2c3e50,stroke:#34495e,color:#ecf0f1
-    style LEFT_PATH fill:#1a1a2e,stroke:#e94560,color:#eee
-    style RIGHT_PATH fill:#1a1a2e,stroke:#e94560,color:#eee
+    style CENTER fill:#ffeaa7,stroke:#fdcb6e,color:#2d3436
+    style RESULT fill:#fab1a0,stroke:#e17055,color:#2d3436
+    style TIMELINE fill:#dfe6e9,stroke:#b2bec3,color:#2d3436
+    style LEFT_PATH fill:#fef3f0,stroke:#e17055,color:#2d3436
+    style RIGHT_PATH fill:#fef3f0,stroke:#e17055,color:#2d3436
 ```
 
 ---
@@ -769,10 +769,10 @@ flowchart TB
     TRUST_CHECK -- "Yes" --> SUCCESS["✅ 提案として機能\nMicrosoft Copilot: CTR +73%"]
     TRUST_CHECK -- "No" --> FAIL["❌ パラドックス発動\nPerplexity: 撤退"]
 
-    style PENTAGON fill:#0f3460,stroke:#16c79a,color:#eee
-    style TRUST_CHECK fill:#f39c12,stroke:#e67e22,color:#fff
-    style SUCCESS fill:#16c79a,stroke:#16c79a,color:#fff
-    style FAIL fill:#e74c3c,stroke:#c0392b,color:#fff
+    style PENTAGON fill:#edf5fc,stroke:#74b9ff,color:#2d3436
+    style TRUST_CHECK fill:#ffeaa7,stroke:#fdcb6e,color:#2d3436
+    style SUCCESS fill:#00b894,stroke:#00b894,color:#fff
+    style FAIL fill:#e17055,stroke:#e17055,color:#fff
 ```
 
 **5条件の達成度比較:**
@@ -917,14 +917,14 @@ flowchart LR
     A5["Google AI Overviews\n広告あり\n検索データ使用"]
     A6["Meta AI\n会話データ直接利用\nオプトアウト不可"]
 
-    style LEFT fill:#16c79a,stroke:#16c79a,color:#fff
-    style RIGHT fill:#e74c3c,stroke:#c0392b,color:#fff
-    style A1 fill:#16c79a,stroke:#0f3460,color:#fff
-    style A2 fill:#27ae60,stroke:#0f3460,color:#fff
-    style A3 fill:#f39c12,stroke:#0f3460,color:#fff
-    style A4 fill:#e67e22,stroke:#0f3460,color:#fff
-    style A5 fill:#d35400,stroke:#0f3460,color:#fff
-    style A6 fill:#e74c3c,stroke:#0f3460,color:#fff
+    style LEFT fill:#dfe6e9,stroke:#00b894,color:#2d3436
+    style RIGHT fill:#fef3f0,stroke:#e17055,color:#2d3436
+    style A1 fill:#b8e6d8,stroke:#00b894,color:#2d3436
+    style A2 fill:#c8edd9,stroke:#00b894,color:#2d3436
+    style A3 fill:#ffeaa7,stroke:#fdcb6e,color:#2d3436
+    style A4 fill:#fad390,stroke:#f6b93b,color:#2d3436
+    style A5 fill:#fab1a0,stroke:#e17055,color:#2d3436
+    style A6 fill:#ff7675,stroke:#d63031,color:#fff
 ```
 
 > ⚖️ **EU AI Act 第50条（2026年8月施行）** — 規制はスペクトラムの右側（高パーソナライゼーション側）を制約する方向に作用する。
@@ -1043,9 +1043,9 @@ flowchart LR
 
     TRADITIONAL -- "UCP +\nエージェンティック・チェックアウト" --> AGENTIC
 
-    style TRADITIONAL fill:#2d3436,stroke:#636e72,color:#dfe6e9
-    style AGENTIC fill:#0f3460,stroke:#16c79a,color:#eee
-    style A2 fill:#16c79a,stroke:#16c79a,color:#fff
+    style TRADITIONAL fill:#f5f5f5,stroke:#b2bec3,color:#2d3436
+    style AGENTIC fill:#f0faf6,stroke:#00b894,color:#2d3436
+    style A2 fill:#00b894,stroke:#00b894,color:#fff
 ```
 
 > ※ ファネルが消えるのではない。**ファネルが1つの対話に圧縮される。**
@@ -1184,11 +1184,11 @@ flowchart LR
 
     STAT["SparkToro/Gumshoe.ai:\n同じ回答が返る確率は\n100回に1回未満"]
 
-    style DETERMINISTIC fill:#2d3436,stroke:#636e72,color:#dfe6e9
-    style PROBABILISTIC fill:#0f3460,stroke:#16c79a,color:#eee
-    style STAT fill:#e74c3c,stroke:#c0392b,color:#fff
-    style D3 fill:#636e72,stroke:#636e72,color:#fff
-    style P3 fill:#16c79a,stroke:#16c79a,color:#fff
+    style DETERMINISTIC fill:#f5f5f5,stroke:#b2bec3,color:#2d3436
+    style PROBABILISTIC fill:#f0faf6,stroke:#00b894,color:#2d3436
+    style STAT fill:#fab1a0,stroke:#e17055,color:#2d3436
+    style D3 fill:#dfe6e9,stroke:#b2bec3,color:#2d3436
+    style P3 fill:#00b894,stroke:#00b894,color:#fff
 ```
 
 ---
@@ -1276,11 +1276,11 @@ flowchart TB
     CENTER -.-> MS["Microsoft"]
     CENTER -.-> AM["Amazon"]
 
-    style CENTER fill:#f39c12,stroke:#e67e22,color:#fff
-    style TRUST fill:#0f3460,stroke:#16c79a,color:#eee
-    style PRIVACY fill:#0f3460,stroke:#16c79a,color:#eee
-    style REGULATION fill:#0f3460,stroke:#16c79a,color:#eee
-    style BUSINESS fill:#0f3460,stroke:#16c79a,color:#eee
+    style CENTER fill:#ffeaa7,stroke:#fdcb6e,color:#2d3436
+    style TRUST fill:#edf5fc,stroke:#74b9ff,color:#2d3436
+    style PRIVACY fill:#edf5fc,stroke:#74b9ff,color:#2d3436
+    style REGULATION fill:#edf5fc,stroke:#74b9ff,color:#2d3436
+    style BUSINESS fill:#edf5fc,stroke:#74b9ff,color:#2d3436
     style G fill:#4285F4,stroke:#4285F4,color:#fff
     style O fill:#10A37F,stroke:#10A37F,color:#fff
     style AN fill:#D4A574,stroke:#D4A574,color:#fff
