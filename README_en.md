@@ -69,7 +69,8 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **The Edge of Intelligence** | When AI runs on your device: the end of cloud, the beginning of edge | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
 | **The Redesign of Design Strategy** | Redefining design strategy, including a structural analysis of IDEO's decline | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
 | **The Orchestrator** | The first-ever definition of the rarest role in the AI era | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
-| **The AI Organization**             | The root cause of AI failure is not technology. Organizational theory for the AI era                            | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
+| **The AI Organization** | The root cause of AI failure is not technology. Organizational theory for the AI era | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization) |
+| **The Structural Shift from SaaS** | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。| [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) |
 
 ---
 
@@ -90,7 +91,8 @@ This book is part of an interconnected ecosystem of open-source projects.
 
 ## 🤝 Contributing
 
-Issues and Pull Requests are welcome. Contributions on international AI advertising regulations, new case studies and data, corrections, and translations are all appreciated.
+Issues and Pull Requests are welcome.<br>
+Contributions on international AI advertising regulations, new case studies and data, corrections, and translations are all appreciated.
 
 ---
 
