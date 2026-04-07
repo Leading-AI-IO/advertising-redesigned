@@ -67,7 +67,8 @@ Google、OpenAI、Anthropic、Perplexity、Meta、Microsoft、Amazon —— 7社
 | **The Edge of Intelligence** | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
 | **The Redesign of Design Strategy** | デザイン戦略の再定義。IDEO崩壊の構造分析を含む | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
 | **The Orchestrator** | AI時代に最も希少な人材像「オーケストレーター」を世界で初めて定義 | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
-| **The AI Organization**             | AI導入が失敗する本質は技術ではなく組織にある。AI時代の組織論      | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
+| **The AI Organization** | AI導入が失敗する本質は技術ではなく組織にある。AI時代の組織論 | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization) |
+| **The Structural Shift from SaaS** | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。| [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) |
 
 ---
 
@@ -87,7 +88,8 @@ Google、OpenAI、Anthropic、Perplexity、Meta、Microsoft、Amazon —— 7社
 
 ## 🤝 Contributing
 
-Issues and Pull Requests are welcome. AI広告の各国規制動向の追加、新たな事例やデータの補足、誤字脱字の修正など、皆様からのContributeを歓迎します。
+Issues and Pull Requests are welcome.<br>
+AI広告の各国規制動向の追加、新たな事例やデータの補足、誤字脱字の修正など、皆様からのContributeを歓迎します。
 
 ---
 
