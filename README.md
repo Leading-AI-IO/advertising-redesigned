@@ -69,6 +69,7 @@ Google、OpenAI、Anthropic、Perplexity、Meta、Microsoft、Amazon —— 7社
 | **The Orchestrator** | AI時代に最も希少な人材像「オーケストレーター」を世界で初めて定義 | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
 | **The AI Organization** | AI導入が失敗する本質は技術ではなく組織にある。AI時代の組織論 | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization) |
 | **The Structural Shift from SaaS** | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。| [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) |
+| **The 10:80:10 Principle** | 人とAIの共創黄金比「10:80:10」の法則——AI時代の思考のOS。| [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
 
 ---
 
