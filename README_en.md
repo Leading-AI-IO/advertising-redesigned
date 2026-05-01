@@ -72,6 +72,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **The AI Organization** | The root cause of AI failure is not technology. Organizational theory for the AI era | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization) |
 | **The Structural Shift from SaaS** | SaaS Is Dead: The Structural Shift from SaaS to Service-as-a-Software | [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model) |
 | **The 10:80:10 Principle** | The optimal balance for human-AI synergy:「10:80:10」in the AI era. | [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
+| **The End of the Attention Economy** | The End of the Attention Economy. What Should the Next SNS Look Like? | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
 
 ---
 
