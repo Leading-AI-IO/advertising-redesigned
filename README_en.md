@@ -13,6 +13,22 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, examining 7 companies' opposing bets on AI and advertising
+> in early 2026 — OpenAI implementing ads, Anthropic explicitly refusing
+> them, Perplexity trying and withdrawing — to identify why identical
+> strategic questions produced opposite results, and whether advertising
+> can be redesigned into something users welcome rather than tolerate. As
+> stated in the conclusion: "The question is no longer 'should we include
+> ads or not.' The question is: can advertising be redesigned into
+> something users welcome?"
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 We hate ads. This isn't an emotional statement — it's a structural fact.
