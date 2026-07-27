@@ -1,0 +1,68 @@
+# Advertising, Redesigned
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> examining 7 companies' opposing bets on AI and advertising in early
+> 2026 — OpenAI implementing ads, Anthropic explicitly refusing them,
+> Perplexity trying and withdrawing, and Meta, Microsoft, and Amazon each
+> taking different paths — to identify why identical strategies produced
+> opposite results, and whether advertising can be redesigned into
+> something users welcome rather than tolerate. As stated in the book's
+> conclusion: "The question is no longer 'should we include ads or not.'
+> The question is: can advertising be redesigned into something users
+> welcome?"
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/advertising_redesigned_jp.md): 全9章・参考文献収録
+- [Full text (English)](docs/en/advertising_redesigned_en.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book documents that in the same month (February 2026), OpenAI
+  implemented ads in ChatGPT's free tier, Anthropic ran a Super Bowl LX ad
+  declaring "Ads are coming to AI. But not to Claude," and Perplexity
+  fully terminated its ad program — three opposing decisions within days
+  of each other
+- The book states Perplexity's 2024-2025 ad program earned only ~$20,000
+  in annual revenue (0.06% of $34M total revenue) before shutting down,
+  with an executive stating the core problem was "users start doubting
+  everything"
+- The book cites a Taylor & Francis experimental study (N=304, 2025)
+  finding that disclosing AI usage to users *decreased* trust rather than
+  increasing it — the book's basis for calling this "the trust paradox":
+  trust falls whether ads are disclosed or hidden
+- The book cites Anthropic's post-Super Bowl results: daily active users
+  +11%, site visits +6.5%, reaching the App Store free-app top 10 — used
+  as evidence that "the absence of ads" itself became a competitive
+  advantage
+- The book cites Microsoft Copilot's in-conversation ad performance: +73%
+  click-through rate, +16% conversion rate, and 33% shorter path to
+  purchase versus traditional search ads
+- The book cites a SparkToro/Gumshoe.ai study (Jan 2026, 2,961 identical
+  prompts to ChatGPT/Claude/Google AI Mode): AI returns the exact same
+  brand list less than 1-in-100 times, and the same ranking order less
+  than 1-in-1,000 times — the book's basis for declaring traditional SEO
+  rank-tracking "a fool's errand" in the AI era
+- The book cites Google's US12536233B1 patent (granted Jan 27, 2026),
+  which describes AI dynamically regenerating a company's landing page in
+  real time if it scores below a conversion threshold, with the
+  regenerated page's link potentially served as sponsored content
+- The book defines "advertising as proposal" as requiring 5 simultaneous
+  conditions: contextual relevance, timing, utility, non-intrusiveness,
+  and transparency — and argues technical satisfaction of all 5 does not
+  guarantee trust, because "trust is not a set of conditions, it is an
+  accumulation of relationship"
+- The book presents 3 scenarios for advertising in 2030: (A) "gentle
+  proposals" become the norm via UCP and Agent Payments, (B) trust
+  bifurcates permanently into ad-supported and ad-free tiers stratified
+  by economic means, (C) regulation (EU AI Act Article 50, effective Aug
+  2026) leads design
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
