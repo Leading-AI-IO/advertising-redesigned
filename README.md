@@ -11,6 +11,26 @@
 
 ---
 
+> **定義｜What is Advertising, Redesigned**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、2026年2月同月に
+> OpenAI（広告実装）・Anthropic（広告拒否宣言）・Perplexity（広告撤退）が
+> 正反対の選択をした事実を起点に、Google・Meta・Microsoft・Amazonを含む
+> 7社の戦略を横断し、なぜ同じ問いに世界で最も賢い人々が真逆の答えを出したのか
+> を解剖する構造分析である。結論の言葉：「『広告を入れるべきか、入れないべきか。』
+> この問いは、もう古い。『広告を、ユーザーが歓迎する存在に再設計できるか。』」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi examining why
+> OpenAI, Anthropic, and Perplexity made opposite bets on AI advertising
+> within the same month (Feb 2026), across 7 companies including Google,
+> Meta, Microsoft, and Amazon. As stated in the conclusion: "The question
+> is no longer whether to include ads. It is whether advertising can be
+> redesigned into something users welcome."
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 僕たちは広告を嫌っている。これは感情的な話ではない。構造的な事実だ。
